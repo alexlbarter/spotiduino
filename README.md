@@ -6,3 +6,4 @@ This project involves creating a remote control device using an Arduino Uno boar
 * See details of currently playing tracks
 * Play/pause current track
 * Skip forward/backward to next/previous track
+* Increase/decrese volume
